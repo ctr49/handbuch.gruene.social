@@ -6,7 +6,7 @@ Sofern Du es in Deinen [Profileinstellungen](https://gruene.social/settings/pref
 
 Beim Erstellen eines Beitrags bzw. Toots hast Du jedoch die Möglichkeit, die Sichtbarkeit für jeden Toot individuell zu beeinflussen.
 
-![Menü zur Einstellung der Sichtbarkeit eines Toot](img/toot-visibility-menu.png)
+![Menü zur Einstellung der Sichtbarkeit eines Toot](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-visibility-menu.png)
 
 ⚠️ **Eine nachträgliche Änderung der Sichtbarkeit nach dem Absenden ist nicht möglich.** Hier hilft nur der Umweg über die Löschfunktion.
 

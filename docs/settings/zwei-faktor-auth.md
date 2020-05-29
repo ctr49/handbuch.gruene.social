@@ -24,15 +24,15 @@ Um 2FA nutzen zu können, benötigst du eine Anwendung auf deinem Smartphone, um
 
 Gehe in die [Einstellungen deines Mastodon-Accounts](https://gruene.social/settings/two_factor_authentication) und klicke erst auf "Konto", dann auf "Zwei-Faktor-Auth". Betätige den "Einrichten"-Button.
 
-![erster Bildschirm zur Einrichtung von 2FA](img/2fa-einrichten.png)
+![erster Bildschirm zur Einrichtung von 2FA](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/settings/img/2fa-einrichten.png)
 
 Du bekommst nun einen QR-Code, den du mit deiner 2FA-App auf dem Smartphone scannen musst. Oben in der App ist dazu ein kleines QR-Code-Symbol.
 
-![QR-Code zur Einrichtung von 2FA](img/2fa-qr-code.png)
+![QR-Code zur Einrichtung von 2FA](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/settings/img/2fa-qr-code.png)
 
 Sobald der QR-Code erkannt wurde, ist ein neuer Eintrag in der App. Wenn du ihn antippst, siehts du den aktuellen Code und wie lange es daurt, bis der nächste generiert wird.
 
-![Screenshot FreeOTP](img/2fa-freeOTP.png)
+![Screenshot FreeOTP](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/settings/img/2fa-freeOTP.png)
 
 Um die Einrichtung von 2FA abzuschließen, musst du in Mastodon das aktuelle Token in das Feld unterhalb des QR-Codes eingeben und auf "Aktivieren" klicken
 
@@ -40,7 +40,7 @@ Zum Abschluss bekommst du noch Codes zur Wiederherstellung. Diese sind zeitlich 
 
 Ab sofort wirst du beim Einloggen nach der Eingaben deiner Mail-Adresse und deines Passworts nach dem aktuellen Token gefragt.
 
-![Screenshot Tokenabfrage](img/2fa-tokenabfrage.png)
+![Screenshot Tokenabfrage](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/settings/img/2fa-tokenabfrage.png)
 
 ## Deaktivierung
 

@@ -6,13 +6,13 @@
 
 Du kannst einer Nachricht ein Bild oder mehrere Bilder anhängen. Das nachstehende Beispiel zeigt einen Toot mit vier Bildern.
 
-![Toot mit vier Bildern](img/toot-with-media.png)
+![Toot mit vier Bildern](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-with-media.png)
 
 ### Bild einfügen über den Datei-Dialog
 
 In der Web-Oberfläche von Mastodon findest Du unterhalb des Eingabefelds für den Nachrichtentext ein Büroklammer-Symbol.
 
-![Eingabefeld für den Nachrichtentext](img/toot-form-screenshot.png)
+![Eingabefeld für den Nachrichtentext](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-form-screenshot.png)
 
 Ein Klick darauf öffnet einen Dateiauswahl-Dialog Deines Betriebssystems. Damit wählst Du die Datei(en) aus, die Du teilen möchtest.
 
@@ -28,7 +28,7 @@ Nach Einfügen eines Bildes stehen weitere Funktionen zur Verfügung. Diese werd
 
 ### Bildausschnitt von Vorschaubildern bearbeiten
 
-![Funktionen zum hochgeladenen Bild](img/toot-media-previewimage.png)
+![Funktionen zum hochgeladenen Bild](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-media-previewimage.png)
 
 Über die Funktion **Vorschaubild bearbeiten** kann man festlegen, welcher Teil des Bildmotivs in jedem Fall angezeigt werden soll, falls das Bild aufgrund seines Seitenverhältnisses nicht in den vorhandenen Raum für die Darstellung passt.
 
@@ -36,7 +36,7 @@ Unser Beispiel zeigt ein eigentlich quadratisches Bild, das jedoch in einem Toot
 
 Durch Klick auf **Vorschaubild bearbeiten** kannst Du den Fokus auf einen bestimmten Bildteil legen, sodass dieser Teil beim Beschneiden erhalten bleibt.
 
-![Funktionen zum hochgeladenen Bild](img/toot-media-previewimage-modify.png)
+![Funktionen zum hochgeladenen Bild](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-media-previewimage-modify.png)
 
 Dazu klickst Du einmal dort ins Bild, wo sich der wesentliche Teil des Motivs befindet. Danach kannst Du die Ansicht durch Drücken der `ESC`-Taste oder durch Klicken außerhalb des Bildes beenden.
 
@@ -47,7 +47,7 @@ Das Ergebnis ist, dass im beschnittenen Vorschaubild der Kopf vollständig erhal
 Um auch Nutzer\*innen mit Sehbehinderungen die Möglichkeit zu geben, die Inhalte von Bildern in Nachrichten zu erfassen, bietet Mastodon die Möglichkeit, jedes einzelne Bild mit einer Beschreibung zu versehen.
 
 
-![Bild mit Bildbeschreibung für Menschen mit Sehbehunderung](img/toot-media-caption.png)
+![Bild mit Bildbeschreibung für Menschen mit Sehbehunderung](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-media-caption.png)
 
 ## Medien als heikel markieren
 
@@ -57,7 +57,7 @@ Stell Dir zum Beispiel vor, Du möchtest ein Bild teilen, auf dem getötete Wale
 
 Damit andere Nutzer\*innen auf derartige Anblicke nicht unvorbereitet stoßen, kannst Du Medien als heikel markieren. Die Weboberfläche von Mastodon macht diese Bilder dann zunächst unkenntlich und werden mit dem Hinsweis _Heikle Inhalte_ markiert.
 
-![Bild mit Bildbeschreibung für Menschen mit Sehbehunderung](img/toot-with-media-marked.png)
+![Bild mit Bildbeschreibung für Menschen mit Sehbehunderung](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-with-media-marked.png)
 
 Nutzer\*innen müssen ein solches Bild eigens anklicken, um es angezeigt zu bekommen.
 

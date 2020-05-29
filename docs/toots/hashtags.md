@@ -4,7 +4,7 @@
 
 Hashtags sind Begriffe, die mit einem vorangestellten _Hash_-Zeichen (`#`) geschrieben werden. Diese werden von Mastodon als Hyperlinks dargestellt. Ein Klick auf einen solchen Hyperlink ermöglicht das Auffinden weiterer Toots, die diesen Hashtag enthalten.
 
-![Toot mit Hashtag](img/hashtag.png)
+![Toot mit Hashtag](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/hashtag.png)
 
 Hashtags können ausschließlich aus den folgenden Zeichen bestehen:
 

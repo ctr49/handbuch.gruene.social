@@ -6,15 +6,15 @@
 
 Die Funktion erreichst Du in der Web-Oberflächte über die mit `CW` für _Content Warning_ beschriftete Schaltfläche unterhalb des Eingabefeldes für Beiträge.
 
-![Eingabefeld für den Nachrichtentext](img/toot-form-screenshot.png)
+![Eingabefeld für den Nachrichtentext](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-form-screenshot.png)
 
 Nach dem Klick auf die Schaltfläche erscheint ein neues Eingabefeld oberhalb des Feldes für den Nachrichtentext, das mit _Inhaltswarnung_ beschriftet ist. In dieses Feld _kannst_ Du eine Überschrift bzw. die Warnung eingeben, die Nutzern zunächst angezeigt wird, wenn sie Deinen Beitrag sehen.
 
-![Feld Inhaltswarnung](img/content-warning-form.png)
+![Feld Inhaltswarnung](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/content-warning-form.png)
 
 In den Zeitleisten anderer Nutzer\*innen wird ein solcher Toot so angezeigt wie auf dem nächsten Bild zu sehen.
 
-![Anzeige Inhaltswarnung](img/content-warning-display.png)
+![Anzeige Inhaltswarnung](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/content-warning-display.png)
 
 Zunächst ist der Inhalt des Beitrags, einschließlich aller Bilder und Medien, verborgen. Erst durch Klick auf die Schaltfläche `MEHR ANZEIGEN` wird der gesamte Inhalt des Beitrags angezeigt.
 

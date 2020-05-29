@@ -27,7 +27,7 @@ Praktisch geht das Folgen in Mastodon an verschiedenen Stellen:
 
 Der nachfolgende Screenshot zeit ein Suchergebnis mit einem Treffer. Das Icon auf der rechten Seite kann angeklickt werden, um dem Profil zu folgen.
 
-![Aus dem Suchergebnis folgen](img/follow-from-search-result.png)
+![Aus dem Suchergebnis folgen](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/network/img/follow-from-search-result.png)
 
 ## Profile zum folgen finden
 

@@ -8,11 +8,11 @@ Die Mastodon Web-Oberfläche, aber auch die anderen [Apps und Clients](apps-clie
 
 In der Web-Oberfläche ist das Symbol, das hierfür angeklickt werden muss, ein hakenförmiger Pfeil nach links und befindet sich unter dem Inhalt des Toots links. Neben diesem Pfeil wird auch die Anzahl der Antworten angezeigt, die der Toot bereits erhalten hat.
 
-![Antwort-Button](img/toot-reply-button.png)
+![Antwort-Button](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-reply-button.png)
 
 Durch den Klick ändert sich das Eingabefeld für das Verfassen eines Toots. Darüber wird der Inhalt des Toots, auf den man antwortet, noch einmal dargestellt. Im Eingabefeld selbst wird der Name eines oder mehrerer Benutzerprofile eingefügt.
 
-![Antwort-Eingabeformular](img/toot-reply-form.png)
+![Antwort-Eingabeformular](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-reply-form.png)
 
 Dahinter kannst Du nun den Antworttext eingeben, wie Du es bei einem normalen Beitrag tun würdest, und diesen veröffentlichen.
 
@@ -24,7 +24,7 @@ Auch wenn eine Antwort so aussieht, als handele es sich dabei um einen Beitrag m
 
 Wie oben bereits erwähnt, bekommen alle Nutzer\*innen im Zusammenhang mit einem Toot angezeigt, wie viele Antworten dazu es bereits gibt. Alle diese Antworten bekommst Du angezeigt, wenn Du die Detailseite des Toots aufrufst.
 
-![Antwort in Thread-Kontext](img/toot-reply-in-thread.png)
+![Antwort in Thread-Kontext](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/toots/img/toot-reply-in-thread.png)
 
 Die Abbildung oben zeigt die Detailansicht eines Toots, der selbst die Antwort auf einen anderen Toot ist, und noch eine weitere Anwort erhalten hat. Durch die Darstellung dieses Antwortverlaufs, oder engl. "Thread", kann eine Unterhaltung einfach nachvollzogen werden.
 

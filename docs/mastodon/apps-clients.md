@@ -42,12 +42,12 @@ Grundsätzlich gilt auch hier, dass diese als Anwendungen von Drittanbietern gen
 
 ### [**Whalebird**](https://whalebird.org/)
 
-![Whalebird Screenshot](img/whalebird_screenshot.png)
+![Whalebird Screenshot](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/mastodon/img/whalebird_screenshot.png)
 
 Open Source Client für Windows, Mac OS und Linux, unterstützt neben Mastodon auch [Pleroma](https://pleroma.social/). ([Whalebird Website](https://whalebird.org/))
 
 ### [**Hyperspace**](https://hyperspace.marquiskurt.net/)
 
-![Hyperspace Screenshot](img/hyperspace_screenshot.png)
+![Hyperspace Screenshot](https://github.com/netzbegruenung/handbuch.gruene.social/raw/master/docs/mastodon/img/hyperspace_screenshot.png)
 
 Open Source Client für Windows, Mac. Eigentlich eine Web-Anwendung, für die es auch einen Desktop-Installer im Beta-Stadium gibt. ([Hyperspace Website](https://hyperspace.marquiskurt.net/))
